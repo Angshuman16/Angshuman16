@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angshuman16
 - 👀 I’m a Frontend Developer, with Interest in Building React Apps and making Powerfull UI
-- 🌱 I’m currently under the process of learning and Deploying React Codes to make Powerfull, Efficient WebSites.
+- 🌱 I’m currently under the process of learning and Deploying React Codes to make Powerfull, Efficient WebApps.
 - 💞️ I’m looking to collaborate on Devloping Cool React Projects and Implementing them to power Your Business
 - 📫 How to reach me through:
 - Linkedin: https://www.linkedin.com/in/angshuman-pathak-2655751b7/
