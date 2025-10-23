@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angshuman16
-- 👀 I’m a Frontend Developer, with Interest in Building React Apps and making Powerfull UI
+- 👀 I’m a Software Engineer, with industry grade experience in .NET CORE MVC, Additionaly I am also into Frontend(ReactJs, Tailwind)
 - 🌱 I’m currently under the process of learning and Deploying React Codes to make Powerfull, Efficient WebApps.
 - 💞️ I’m looking to collaborate on Devloping Cool React Projects and Implementing them to power Your Business
 - 📫 How to reach me through:
