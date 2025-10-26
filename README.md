@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Devloping Cool React Projects and Implementing them to power Your Business
 - 📫 How to reach me through:
 - Linkedin: https://www.linkedin.com/in/angshuman-pathak-2655751b7/
-- Instagram: https://www.instagram.com/adorable__angshuman/
 - Mail Me: pathakangshu@gmail.com
 
 <!---
